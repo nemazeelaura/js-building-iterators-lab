@@ -2,7 +2,8 @@
 
 function myMap(arr, callback) {
 
-//  CODE INSIDE HERE   //
+ }
+ 
 
 }
 
